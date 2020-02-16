@@ -1,0 +1,30 @@
+button {
+    height: 80px;
+}
+
+#green,
+#green :active,
+#green :focus {
+    outline-color: green;
+    width: 200px;
+    background-color: green;
+    color: white;
+}
+
+#red,
+#red :active,
+#red :focus {
+    outline-color: red;
+    width: 150px;
+    background-color: red;
+    color: white;
+}
+
+#blue,
+#blue:active,
+#blue:focus {
+    outline-color: blue;
+    width: 150px;
+    background-color: blue;
+    color: white;
+}
